@@ -1,4 +1,4 @@
-# Diceware Passphrase Generator
+# Diceware-Passphrase-Generator
 
 A console-based passphrase generator that follows the Diceware method, rolling simulated dice to build secure, memorable passphrases from large multilingual word lists.
 
